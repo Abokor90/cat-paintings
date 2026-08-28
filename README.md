@@ -4,10 +4,6 @@ A simple cat painting created using **HTML** and **CSS**.
 
 This project uses different CSS properties to create the cat's face, including shapes, colors, borders, positioning, and styling.
 
-Preview
-
-![Cat Painting](./screenshot.png)
-
 Built With
 
 - HTML
