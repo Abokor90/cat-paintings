@@ -34,4 +34,4 @@ This project was built as part of the [freeCodeCamp](https://www.freecodecamp.or
 
 ## Author
 
-Your Name
+Abdikani Abokor
